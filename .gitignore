@@ -5,3 +5,12 @@ __pycache__/
 
 # Scrapy stuff:
 .scrapy
+
+# IDE Settings
+.idea/
+
+# Ignore the Output of cached URLs and the JSON file
+output/*
+
+# Mac Stuff
+.DS_Store
